@@ -42,7 +42,6 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 可以去天行数据申请各种各样的接口用来推送
 ![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/Snipaste_2022-08-24_12-13-19.png)
 ![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/Snipaste.png)
-![image](https://github.com/Rouarn/Rainbow-love/blob/master/img/Rotation-map/333.jpg)
 
 
 有别的建议欢迎留言
